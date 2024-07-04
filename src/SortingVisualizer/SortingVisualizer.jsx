@@ -648,7 +648,7 @@ selectionSort = () => {
           <button className="nav-button" onClick={this.bubbleSort}>Bubble Sort</button>
           <button className="nav-button" onClick={this.insertionSort}>Insertion Sort</button>
           <button className="nav-button" onClick={this.quickSort}>Quick Sort</button>
-          <button className="nav-button" onClick={this.heapSort}>Heap Sort </button>
+          
           <button className="nav-button" onClick={this.selectionSort}>Selection Sort</button> 
           <div className="input-container">
             <label htmlFor="speedInput">Animation Speed (ms): </label>
